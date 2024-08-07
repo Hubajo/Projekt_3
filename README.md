@@ -17,6 +17,7 @@ Stahuji data z url https://volby.cz/pls/ps2017nss/ps32?xjazyk=CZ&xkraj=12&xnumnu
 Ukládám do souboru vysledky.csv
 Ukončuji Scraper
 
+UKÁZKA
 Číslo	Název	Voliči v seznamu	Vydané obálky	Volební účast v %	Odevzdané obálky
 552356	Babice	    370	            256	                69,19	            256
 500526	Bělkovice-Lašťany	1 801	1 079	            59,91	            1 078
